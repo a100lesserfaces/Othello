@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC 132
+#  Project hw1: Project #1
+
+courseName=CMSC 132
+semester=201308
+projectNumber=proj1
+courseKey=7e0b0185d6188d67
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443
+submitURL=https://submit.cs.umd.edu:443/eclipse/SubmitProjectViaEclipse
